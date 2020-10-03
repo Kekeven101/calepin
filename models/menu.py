@@ -107,4 +107,3 @@ if not configuration.get('app.production'):
              'http://webchat.freenode.net/?channels=web2py'),
         ]),
     ]
-
